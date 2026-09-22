@@ -17,6 +17,9 @@ versionamento de código aprendidos na trilha, incluindo:
 O conteúdo aqui será apresentado em sala como evidência prática da
 conclusão da trilha GitHub Foundations.
 
+## Trilha concluída
+Certificado de conclusão da trilha GitHub Foundations adicionado a este repositório.
+
 ## Autor
 
 João Battistella
